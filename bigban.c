@@ -31,7 +31,8 @@ send a mail to...                               toni@cibs.sns.it
 
 
 
-
+#include <stdlib.h>
+#include <stdio.h>
 #include <string.h>
 
 #define BIT(n)  (1<<(n))
